@@ -1,5 +1,5 @@
 {
-  "name": "wepy-cli",
+  "name": "@mycolorway/wepy-cli",
   "version": "1.7.2-alpha4",
   "description": "",
   "main": "bin/wepy.js",
